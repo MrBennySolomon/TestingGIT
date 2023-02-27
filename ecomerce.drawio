@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T16:55:24.193Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="AXAALV7vl90OtrmEAtOE" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T17:03:49.115Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_NmtMOtJui-NXa62uZkU" version="20.8.20" type="github">
   <diagram name="‫עמוד-1‬" id="qi8N1jVwXG6zuJL_99tc">
-    <mxGraphModel dx="1972" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#4D4D4D" math="0" shadow="0">
+    <mxGraphModel dx="2043" dy="699" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#4D4D4D" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,6 +211,21 @@
               <mxPoint x="675" y="470" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ImCbX07-H54w_GsQOJgO-144" value="Home Page" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=4;fontSize=22;fontColor=#FFFFFF;fillColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="-359" y="108" width="161" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ImCbX07-H54w_GsQOJgO-145" value="Products Page" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=4;fontSize=22;fontColor=#FFFFFF;fillColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="-359" y="201" width="161" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ImCbX07-H54w_GsQOJgO-146" value="Online Courses Page" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=4;fontSize=22;fontColor=#FFFFFF;fillColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="-359" y="294" width="161" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ImCbX07-H54w_GsQOJgO-147" value="Online Courses :id Page" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=4;fontSize=22;fontColor=#FFFFFF;fillColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="-359" y="386" width="161" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ImCbX07-H54w_GsQOJgO-148" value="Products&lt;br&gt;:id Page" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=4;fontSize=22;fontColor=#FFFFFF;fillColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="-359" y="479" width="161" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
